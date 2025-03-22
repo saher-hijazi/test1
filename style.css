@@ -1,6 +1,9 @@
 h1{
 color: rgb(245, 0, 0);
 }
+h2{
+    color: aqua;
+}
 
 body{
     background-color: rgb(11, 9, 9);
